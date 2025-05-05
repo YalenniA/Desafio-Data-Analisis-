@@ -21,10 +21,4 @@ Este proyecto es el Challenge de Ciencia de Datos de **Alura LATAM**, donde se a
 - matplotlib
 - Google Colab
 
-## 📁 Estructura del proyecto
 
-```bash
-📦 reto-alura-latam
-├── 📄 README.md
-├── 📓 analisis_tiendas.ipynb
-└── 📊 data (opcional si descargas los archivos)
